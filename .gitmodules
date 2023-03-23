@@ -3,6 +3,16 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "kpodclustr"]
+	path = kpodclustr
+	url = https://github.com/cran/kpodclustr
+	shallow = true
+	registered = true
+[submodule "L2E"]
+	path = L2E
+	url = https://github.com/cran/L2E
+	shallow = true
+	registered = true
 [submodule "SEAGLE"]
 	path = SEAGLE
 	url = https://github.com/jocelynchi/seagle
