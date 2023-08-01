@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "kpodclustr"]
-	path = kpodclustr
-	url = https://github.com/cran/kpodclustr
 [submodule "L2E"]
 	path = L2E
 	url = https://github.com/cran/L2E
 [submodule "SEAGLE"]
 	path = SEAGLE
 	url = https://github.com/jocelynchi/seagle
+[submodule "kpodclustr"]
+	path = kpodclustr
+	url = https://github.com/cran/kpodclustr
