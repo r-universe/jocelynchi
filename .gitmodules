@@ -8,6 +8,3 @@
 [submodule "SEAGLE"]
 	path = SEAGLE
 	url = https://github.com/jocelynchi/seagle
-[submodule "kpodclustr"]
-	path = kpodclustr
-	url = https://github.com/cran/kpodclustr
